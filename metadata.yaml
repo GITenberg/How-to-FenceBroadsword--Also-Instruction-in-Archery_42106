@@ -1,0 +1,26 @@
+_repo: How-to-FenceBroadsword--Also-Instruction-in-Archery_42106
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Warford, Aaron A.
+    gutenberg_agent_id: '41524'
+    url: http://www.gutenberg.org/2009/agents/41524
+description: ''
+gutenberg_issued: '2013-02-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42106'
+  lccn: '12034434'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fencing'
+- !lcc 'U'
+title: "How to Fence\r\nContaining Full Instruction for Fencing and the Use of the\
+  \ Broadsword; Also Instruction in Archery"
+url: http://www.gutenberg.org/ebooks/42106
