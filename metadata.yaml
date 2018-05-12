@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41524'
     url: http://www.gutenberg.org/2009/agents/41524
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42106#How-to-FenceBroadsword--Also-Instruction-in-Archery
 gutenberg_issued: '2013-02-16'
 gutenberg_type: Text
 identifiers:
